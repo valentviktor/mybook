@@ -8,6 +8,7 @@ nama = "Viktor"  # String
 umur = 22  # Integer
 tinggi = 1.75  # Float
 is_mahasiswa = True  # Boolean
+duit = None  # None or Null at another language
 ```
 
 ### 1.2 Percabangan dan Perulangan
