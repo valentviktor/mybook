@@ -259,4 +259,6 @@ Cek di browser: `http://127.0.0.1:5000/api/mahasiswa`
 ✅ **Menampilkan, menambah, menghapus data**.  
 ✅ **Menyediakan API JSON**.  
 
+**Catatan:** Simple Flask ini cocok untuk aplikasi kecil yang hanya untuk sistem pemantauan sederhana. Jika aplikasi berkembang lebih kompleks, disarankan menggunakan framework yang lebih scalable seperti FastAPI atau Django.
+
 Gass! 🚀
