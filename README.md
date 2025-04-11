@@ -142,3 +142,95 @@ Roadmap ini fleksibel. Jika kamu stuck di materi tertentu, **ulang dan perdalam 
 
 Kalau kamu butuh versi interaktif (Notion/Trello), aku juga bisa bantu bikinin!
 
+
+
+# 📘 Studi Kasus Vue.js untuk Penguatan Dasar & Portfolio
+
+Belajar Vue.js jadi lebih mantap dengan implementasi nyata. Berikut adalah daftar studi kasus mulai dari level dasar hingga menengah, yang bisa kamu jadikan sebagai latihan sekaligus proyek portfolio.
+
+---
+
+## 🔹 Studi Kasus Dasar (Cocok untuk Pemula)
+
+### 1. To-Do List App
+- **Fitur:** Tambah, hapus, edit, tandai selesai.
+- **Fokus:** `v-model`, `v-for`, `v-bind`, `v-on`, `v-if`, `v-show`.
+- **Bonus:** Simpan data ke `localStorage`.
+
+### 2. Counter App
+- **Fitur:** Tambah & kurang nilai counter.
+- **Fokus:** Reactive data, event handling.
+- **Bonus:** Multiple counter dengan komponen terpisah.
+
+### 3. Weather App (menggunakan API)
+- **Fitur:** Input nama kota → tampilkan cuaca.
+- **Fokus:** Fetch API (`fetch()` / `axios`), binding data dari API.
+- **API Referensi:** [OpenWeatherMap](https://openweathermap.org/)
+
+### 4. Form Validation App
+- **Fitur:** Form registrasi dengan validasi dasar.
+- **Fokus:** `v-model`, form handling, validasi manual.
+- **Bonus:** Validasi dengan package seperti Vuelidate.
+
+---
+
+## 🔹 Studi Kasus Menengah (Pakai Vue Router / Pinia)
+
+### 5. Notes App
+- **Fitur:** Tambah, edit, lihat, dan hapus catatan.
+- **Fokus:** Vue Router, komponen dinamis, form handling.
+- **Bonus:** Simpan ke `localStorage`.
+
+### 6. CRUD Produk (Mini Admin Dashboard)
+- **Fitur:** Tambah, lihat, edit, hapus produk.
+- **Fokus:** Modular component, REST API integration.
+- **API Dummy:** [JSONPlaceholder](https://jsonplaceholder.typicode.com) / [MockAPI](https://mockapi.io/)
+
+### 7. Blog Viewer App
+- **Fitur:** Ambil & tampilkan artikel, pagination.
+- **Fokus:** Dynamic routing, fetch API, conditional rendering.
+- **Bonus:** Viewer markdown untuk isi artikel.
+
+### 8. Simple Authentication Flow
+- **Fitur:** Login, logout, auth guard.
+- **Fokus:** Vue Router guard, state management (Vuex/Pinia).
+- **Bonus:** JWT token + dummy API.
+
+---
+
+## 🔹 Studi Kasus Portfolio Siap Tayang
+
+### 9. Portfolio Website
+- **Fitur:** Tentang saya, proyek, kontak.
+- **Fokus:** Routing, component reuse, layouting.
+- **Bonus:** Deploy ke Netlify / Vercel.
+
+### 10. E-commerce Frontend Mockup
+- **Fitur:** List produk, filter, keranjang, checkout dummy.
+- **Fokus:** Vuex/Pinia untuk cart, komponen kompleks.
+- **Bonus:** Simulasi pembayaran (Stripe / Midtrans).
+
+### 11. Kanban Board (Seperti Trello)
+- **Fitur:** Drag & drop task, kategorisasi.
+- **Fokus:** Komunikasi antar komponen, lifecycle.
+- **Bonus:** Gunakan `VueDraggable`.
+
+### 12. Chat App (Realtime)
+- **Fitur:** Chat antar user (realtime).
+- **Fokus:** WebSocket / Firebase.
+- **Bonus:** Gunakan Firebase untuk backend-nya.
+
+---
+
+## 🔧 Tips Implementasi ke Portfolio
+
+- ✅ Tambahkan halaman "Tentang Proyek".
+- ✅ Sertakan dokumentasi (README) di GitHub.
+- ✅ Deploy ke Netlify / Vercel.
+- ✅ Tampilkan di LinkedIn atau personal website.
+
+---
+
+> **Mau mulai dari yang mana dulu?** Bisa kita breakdown langkah-langkah pembuatannya bareng.
+
+
